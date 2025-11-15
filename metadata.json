@@ -1,0 +1,7 @@
+{
+  "name": "AI Vyapar Assistant",
+  "description": "An AI-powered business management app, inspired by Vyapar, to manage products and invoices. Features include invoice generation from natural language commands and product search using images, all powered by the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
